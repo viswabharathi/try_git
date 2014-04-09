@@ -11,8 +11,7 @@
                                                                             "balls" : 29,
                                                                             "fours" : 2,
                                                                             "sixes" : 1,
-                                                                            "bowler" : false,
-                                                                            
+                                                                            "bowler" : false     
                                                               }
                                                             ]
                                                },
