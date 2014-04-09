@@ -12,7 +12,8 @@
                                                                             "fours" : 2,
                                                                             "sixes" : 1,
                                                                             "bowler" : false     
-                                                              }
+                                                                            }
+                                                                }
                                                             ]
                                                },
                                    "bowlteam" : {"players" : [{"player" : 
@@ -23,7 +24,8 @@
                                                                            "noballs" : 2,
                                                                            "wides" : 1
                                                                            }
-                                                              ]
+                                                              }
+                                                             ]
                                                 },
                                    "fallofwickets" : [],
                                    "totalruns" : 350,
@@ -33,7 +35,7 @@
                                                "legbyes" : 7,
                                                "wides" : 2,
                                                "noballs" : 8,
-                                               "penalty: 1,
+                                               "penalty" : 1,
                                                "total" : 25
                                                }
                                   }
@@ -42,3 +44,5 @@
                     "miniscorecard" : {},
                     "commentry" : []
                   }
+    }
+]
